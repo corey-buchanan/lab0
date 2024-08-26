@@ -83,3 +83,5 @@
 1329	1602	1724696701788626826	CMakeFiles/blink.dir/Users/coreybuchanan/.pico-sdk/sdk/2.0.0/src/rp2_common/pico_cyw43_driver/cyw43_bus_pio_spi.c.obj	f510d1566ab1b6d8
 1345	1761	1724696701804285499	CMakeFiles/blink.dir/Users/coreybuchanan/.pico-sdk/sdk/2.0.0/lib/cyw43-driver/src/cyw43_ll.c.obj	72893ea1b05ea740
 1761	1945	1724696702219956449	blink.elf	c3496683783185b6
+6	121	1724697728621740468	CMakeFiles/blink.dir/blink.c.obj	f90345e05a5fb98e
+121	344	1724697728737234656	blink.elf	c3496683783185b6
