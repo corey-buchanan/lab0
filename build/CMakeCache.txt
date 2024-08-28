@@ -339,6 +339,15 @@ pico_sdk_IS_TOP_LEVEL:STATIC=OFF
 //Value Computed by CMake
 pico_sdk_SOURCE_DIR:STATIC=/Users/coreybuchanan/.pico-sdk/sdk/2.0.0
 
+//Value Computed by CMake
+testing_BINARY_DIR:STATIC=/Users/coreybuchanan/src/blink/build
+
+//Value Computed by CMake
+testing_IS_TOP_LEVEL:STATIC=ON
+
+//Value Computed by CMake
+testing_SOURCE_DIR:STATIC=/Users/coreybuchanan/src/blink
+
 
 ########################
 # INTERNAL cache entries
