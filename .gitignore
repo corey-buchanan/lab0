@@ -1,6 +1,0 @@
-*.log*
-build
-*.pid
-*-asciinema
-*-profile
-.vscode
